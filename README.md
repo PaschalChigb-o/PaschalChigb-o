@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>Certifications</h2>
+<h2>Certificatios</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
 
