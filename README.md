@@ -12,7 +12,7 @@ I enjoy solving problems, applying math concepts with code, exploring AI ideas, 
 
 ---
 
-## 🛠 Skills and Interests
+<h3>🛠 Skills and Interests<h3/>
 - 📊 Python (beginner, growing daily)  
 - 🧠 AI & Problem Solving (early exploration)  
 - ✍️ Writing & Communication (creative reflections, essays, and reports)  
