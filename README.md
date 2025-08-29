@@ -34,12 +34,8 @@ Here’s a glimpse of what I’m building and learning:
 - Contribute to open-source projects  
 
 ---
-
 <h2> 🤳 Connect with me:</h2>
-- LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | 
-- 🐦 [Twitter/X](#) *(optional)*  
-- 📧 Email: *(your email here)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paschal-chigbo-20t24?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
