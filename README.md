@@ -35,7 +35,9 @@ Here’s a glimpse of what I’m building and learning:
 
 ---
 <h2> 🤳 Connect with me:</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paschal-chigbo-20t24?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<a href="https://www.linkedin.com/in/Paschal - Chigbo" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
+</a>
 
 ---
 
