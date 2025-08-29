@@ -13,10 +13,9 @@ I enjoy solving problems, applying math concepts with code, exploring AI ideas, 
 ---
 
 ### 🛠 Skills & Interests  
-- 📊 Python (beginner, growing daily)  
-- 📈 Math & Graphs (cost, revenue, and equations visualizations)  
+- 📊 Python (beginner, growing daily)    
 - 🧠 AI & Problem Solving (early exploration)  
-- ✍️ Writing & Communication (creative reflections, essays, and reports)  
+- ✍️ Writing and communication skills 
 - 🎨 Tech + Creativity (illustrations, futuristic ideas, digital tools)  
 
 ---
@@ -25,12 +24,7 @@ I enjoy solving problems, applying math concepts with code, exploring AI ideas, 
 Here’s a glimpse of what I’m building and learning:  
 
 ### 🔹 Python Learning  
-- [Beginner Exercises](#) → My small Python practice scripts (calculators, games, to-do lists).  
-- [Math Visualizations](#) → Graphing cost & revenue functions and solving systems of equations.  
-
-### 🔹 Creative Side  
-- [Hummingbird Reflection](#) → A personal essay about inspiration and growth.  
-- [Writing Samples](#) → Short structured writings & rephrased reflections.  
+- Beginner Exercises — games,to-do lists,password generator 
 
 ### 🔹 Future Goals  
 - Build simple AI-powered tools with Python  
