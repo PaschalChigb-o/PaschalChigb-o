@@ -35,8 +35,9 @@ Here’s a glimpse of what I’m building and learning:
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](#) *(add your link)*  
+<h2> 🤳 Connect with me:</h2>
+- LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | 
 - 🐦 [Twitter/X](#) *(optional)*  
 - 📧 Email: *(your email here)*  
 
