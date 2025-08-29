@@ -42,6 +42,7 @@ Here’s a glimpse of what I’m building and learning:
 <a href="mailto:chigbopaschal20@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
 </a>
+
 ---
 
 ⭐️ *“Curiosity + consistency = growth.”*
