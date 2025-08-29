@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paschal  
+9# 👋 Hi, I'm Paschal  
 
 🎓 Undergraduate | 🌍 Lifelong Learner | 💻 Aspiring Python Developer  
 
@@ -39,6 +39,9 @@ Here’s a glimpse of what I’m building and learning:
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
 </a>
 
+<a href="mailto:chigbopaschal20@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
+</a>
 ---
 
 ⭐️ *“Curiosity + consistency = growth.”*
