@@ -26,6 +26,8 @@ Here’s a glimpse of what I’m building and learning:
 ### 🔹 Python Learning  
 - Beginner Exercises — games,to-do lists,password generator 
 
+---
+
 ### 🔹 Future Goals  
 - Build simple AI-powered tools with Python  
 - Develop educational apps for students  
