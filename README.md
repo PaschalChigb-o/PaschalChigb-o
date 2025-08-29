@@ -23,7 +23,7 @@ I enjoy solving problems, applying math concepts with code, exploring AI ideas, 
 ## 📂 Projects  
 Here’s a glimpse of what I’m building and learning:  
 
-### 🔹 Upcoming projects 
+<h4>🔹 Upcoming projects </h4>
 - [Beginner Exercises](#) → My small Python practice scripts (calculators, games, to-do lists).  
 - [Math Visualizations](#) → Graphing cost & revenue functions and solving systems of equations.   
 
