@@ -1,4 +1,4 @@
-9# 👋 Hi, I'm Paschal  
+# 👋 Hi, I'm Paschal  
 
 🎓 Undergraduate | 🌍 Lifelong Learner | 💻 Aspiring Python Developer  
 
