@@ -35,7 +35,7 @@ Here’s a glimpse of what I’m building and learning:
 
 ---
 <h2> 🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/Paschal - Chigbo" target="_blank">
+<a href="https://www.linkedin.com/in/Paschal -chigbo20t24" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
 </a>
 
