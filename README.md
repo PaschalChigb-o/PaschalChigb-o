@@ -1,38 +1,49 @@
-<h1>Hi, I'm Paschal! </h1>
+# 👋 Hi, I'm Paschal  
 
-<h2>👨‍💻 BackEnd Development Projects:</h2>
+🎓 Undergraduate | 🌍 Lifelong Learner | 💻 Aspiring Python Developer  
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+---
 
-<h2>Certificatios</h2>
+## 🌟 About Me  
+I’m an undergraduate passionate about **technology, learning, and creativity**.  
+Currently, I’m on a 5-month journey to become efficient in **Python programming**, using resources like Mosh Hamedani’s tutorials and freeCodeCamp.  
 
-<h2>📺 Popular YouTube Videos</h2>
+I enjoy solving problems, applying math concepts with code, exploring AI ideas, and improving how I express thoughts in writing. My curiosity drives me to learn across **education, tech, communication, and creativity**.  
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🛠 Skills & Interests  
+- 📊 Python (beginner, growing daily)  
+- 📈 Math & Graphs (cost, revenue, and equations visualizations)  
+- 🧠 AI & Problem Solving (early exploration)  
+- ✍️ Writing & Communication (creative reflections, essays, and reports)  
+- 🎨 Tech + Creativity (illustrations, futuristic ideas, digital tools)  
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 📂 Projects  
+Here’s a glimpse of what I’m building and learning:  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Python Learning  
+- [Beginner Exercises](#) → My small Python practice scripts (calculators, games, to-do lists).  
+- [Math Visualizations](#) → Graphing cost & revenue functions and solving systems of equations.  
 
-Here are some ideas to get you started:
+### 🔹 Creative Side  
+- [Hummingbird Reflection](#) → A personal essay about inspiration and growth.  
+- [Writing Samples](#) → Short structured writings & rephrased reflections.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Future Goals  
+- Build simple AI-powered tools with Python  
+- Develop educational apps for students  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](#) *(add your link)*  
+- 🐦 [Twitter/X](#) *(optional)*  
+- 📧 Email: *(your email here)*  
+
+---
+
+⭐️ *“Curiosity + consistency = growth.”*
