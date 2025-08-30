@@ -1,14 +1,6 @@
-# 👋 Hi, I'm Paschal  
+#  Hi, I'm Paschal  
 
 🎓 Undergraduate | 🌍 Lifelong Learner | 💻 Aspiring Python Developer  
-
----
-
-## 🌟 About Me  
-I’m an undergraduate passionate about **technology, learning, and creativity**.  
-Currently, I’m on a 5-month journey to become efficient in **Python programming**, using resources like Mosh Hamedani’s tutorials and freeCodeCamp.  
-
-I enjoy solving problems,exploring AI ideas, and improving how I express thoughts in writing. My curiosity drives me to learn across **education, tech, communication, and creativity**.  
 
 ---
 
@@ -25,6 +17,13 @@ Here’s a glimpse of what I’m building and learning:
 
 ### 🔹 Python Learning  
 - Beginner Exercises — games,to-do lists,password generator 
+
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
