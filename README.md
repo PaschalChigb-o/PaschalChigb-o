@@ -1,6 +1,6 @@
 #  Hi, I'm Paschal  
 
-🎓 Undergraduate | 🌍 Lifelong Learner | 💻 Aspiring Python Developer  
+Aspiring Back End Developer
 
 ---
 
@@ -46,5 +46,3 @@ Here’s a glimpse of what I’m building and learning:
 </a>
 
 ---
-
-⭐️ *“Curiosity + consistency = growth.”*
