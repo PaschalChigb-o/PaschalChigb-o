@@ -16,8 +16,8 @@ Aspiring Back End Developer
 
 
 ### 🔹 Python Backend Projects (Personal Work)  
-- Developing **backend and data management projects** to deepen Python expertise.  
-- Exploring future areas like **cloud computing** and **data modelling*
+- Developing backend and data management projectsto deepen Python expertise.  
+- Exploring future areas like cloud computing and data modelling
 ---
 ## 🛠️ Tools & Technologies 
 
