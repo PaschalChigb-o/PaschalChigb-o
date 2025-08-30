@@ -13,11 +13,11 @@ Aspiring Back End Developer
 ---
 
 ## 📂 Projects  
-Here’s a glimpse of what I’m building and learning:  
 
-### 🔹 Python Learning  
-- Beginner Exercises — games,to-do lists,password generator 
 
+### 🔹 Python Backend Projects (Personal Work)  
+- Developing **backend and data management projects** to deepen Python expertise.  
+- Exploring future areas like **cloud computing** and **data modelling*
 ---
 ## 🛠️ Tools & Technologies 
 
