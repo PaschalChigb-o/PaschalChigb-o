@@ -21,11 +21,11 @@ Here’s a glimpse of what I’m building and learning:
 ---
 ## 🛠️ Tools & Technologies  
 
-![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB)  
-![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032)  
-![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&color=181717)  
-![VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0078d7)  
-![Google Workspace](https://img.shields.io/badge/-?style=for-the-badge&logo=google&logoColor=white&color=4285F4)
+[Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB)  
+[Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032)  
+[GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&color=181717)  
+[VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0078d7)  
+[Google Workspace](https://img.shields.io/badge/-?style=for-the-badge&logo=google&logoColor=white&color=4285F4)
 
 
 ---
